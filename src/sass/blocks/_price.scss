@@ -6,7 +6,7 @@
         display: grid;
         grid-template: repeat(3, minmax(44px, auto)) / repeat(2, minmax(370px, auto));
         row-gap: 15px;
-        column-gap: 306px;
+        column-gap: 45px;
     }
     &__item {
         display: grid;
