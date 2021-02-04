@@ -19,7 +19,7 @@
 .divider {
     width: 60px;
     height: 3px;
-    background-color: $main-color;
+    background-color: var(--main-color, #FFA501);
     margin: 25px auto 0 auto;
 }
 

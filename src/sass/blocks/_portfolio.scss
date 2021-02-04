@@ -16,7 +16,7 @@
     }
     &__item {
         overflow: hidden;
-        background-color: $main-color;
+        background-color: var(--main-color, #FFA501);
         img {
             width: 100%;
             height: 100%;
